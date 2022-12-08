@@ -1,0 +1,729 @@
+Case Safe ID,Status,College/University: OneGoal ID,College/University: Organization Name,FormAssembly Name,OneGoal Cohort
+0030V00003LEWuZQAX,College of Consideration,10401,Iowa State University,,C1
+0030V00003LEWuZQAX,Application Submitted,10799,Northern Illinois University,,C1
+0030V00003LEWuZQAX,Application Submitted,10564,North Park University,,C1
+0030V00003LEWuZQAX,Application Submitted,10320,Saint Xavier University,,C1
+0030V00003LEWuZQAX,No Longer Considering,11185,Aurora University,,C1
+0030V00003LEWuZQAX,No Longer Considering,10863,Illinois State University,,C1
+0030V00003LEWuZQAX,Application Submitted,10861,Eastern Illinois University,,C1
+0030V00003LEWuZQAX,No Longer Considering,10774,DePaul University,,C1
+0030V00003LEWuZQAX,Application in Progress,10814,Dominican University,,C1
+0030V00003LEWuZQAX,Best-Fit College,11205,North Central College,,C1
+0030V00003LEWuZQAX,Application in Progress,10723,National Louis University,,C1
+0030V00003LEWuZQAX,College of Consideration,10000,Northeastern Illinois University,,C1
+0030V00003LEWuZQAX,Application in Progress,12815,Morton College,,C1
+0030V00003LEWuZQAX,Application Submitted,10382,University of Illinois at Chicago,,C1
+0030V00003LEWuZQAX,Accepted,12792,City Colleges of Chicago Richard J. Daley College,,C1
+0030V00003jhVUxQAM,Application Submitted,10564,North Park University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application in Progress,10771,Trinity Baptist College,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Application in Progress,10963,Truman State University,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Application in Progress,10576,University of Southern Mississippi,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Best-Fit College,11122,Duke University,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Application in Progress,10019,Alabama A & M University,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Application in Progress,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C1
+0030V00003jhVUxQAM,Application Submitted,10799,Northern Illinois University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,10861,Eastern Illinois University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,10863,Illinois State University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,10760,Langston University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,12894,Iowa Central Community College,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,11936,Judson University,Prefill College Application Status Form,C1
+0030V00003jhVUxQAM,Application Submitted,11136,Iowa Wesleyan College,Prefill College Application Status Form,C1
+0030V00003jkjo9QAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Best-Fit College,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Best-Fit College,13259,American Academy of Dramatic Arts,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Best-Fit College,11708,American Musical and Dramatic Academy,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Application Submitted,10501,Columbia College Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Best-Fit College,10668,CUNY New York City College of Technology (2-Year),Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Best-Fit College,12116,SUNY College at Potsdam,Prefill Best&#45;Fit College Form,C1
+0030V00003jkjo9QAA,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C1
+0030V00003jkkEvQAI,Best-Fit College,11831,Everest University-Brandon,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkEvQAI,Best-Fit College,11335,Northern Michigan University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkEvQAI,College of Consideration,11461,Fairmont State University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkEvQAI,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003jkkEvQAI,Application Submitted,11287,New England College,Prefill College Application Status Form,C1
+0030V00003jkkEvQAI,Application Submitted,10000,Northeastern Illinois University,Prefill College Application Status Form,C1
+0030V00003jkkEvQAI,Application Submitted,12815,Morton College,Prefill College Application Status Form,C1
+0030V00003jkkEvQAI,Application Submitted,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C1
+0030V00003jkkGrQAI,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkGrQAI,Best-Fit College,12079,Robert Morris University Illinois,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkGrQAI,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkcxQAA,Application in Progress,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkcxQAA,Application Submitted,11767,Campbell University Inc,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkcxQAA,Application Submitted,10101,Clarkson University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkcxQAA,Application in Progress,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C1
+0030V00003jkkcxQAA,Application Submitted,11869,Indiana University-Purdue University-Indianapolis,Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Best-Fit College,11325,University of Notre Dame,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkm9QAA,Application in Progress,11341,University of Chicago,Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Application Submitted,10956,Bradley University,Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Application Submitted,11276,Concordia University (IL),Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Application Submitted,10848,Illinois Institute of Technology,Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Application in Progress,10382,University of Illinois at Chicago,Prefill College Application Status Form,C1
+0030V00003jkkm9QAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003jkkoKQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkoKQAQ,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkoKQAQ,Best-Fit College,12021,Ohio State University-Main Campus,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkoKQAQ,Best-Fit College,11185,Aurora University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkooQAA,Accepted,12826,City Colleges of Chicago Harold Washington College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkooQAA,Application Submitted,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkkooQAA,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Accepted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10220,Anderson University (IN),Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10058,Arizona State University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10501,Columbia College Chicago,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10547,Baylor University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10441,Bellarmine University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11399,Beloit College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10173,Chicago State University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11449,Colorado College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11174,Colorado State University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11276,Concordia University (IL),Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11066,Eureka College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10987,Illinois College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11451,Lewis University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,11710,Arkansas State University-Main Campus,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10313,Austin College,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10371,Cleveland State University,Prefill College Application Status Form,C1
+0030V00003jkkooQAA,Application Submitted,10008,Seattle University,Prefill College Application Status Form,C1
+0030V00003jkks7QAA,Best-Fit College,12129,The Art Institute of California-Orange County,Prefill Best&#45;Fit College Form,C1
+0030V00003jkks7QAA,Application Submitted,11118,School of the Art Institute of Chicago,Prefill College Application Status Form,C1
+0030V00003jkks7QAA,Best-Fit College,10034,American Academy of Art,My Options List,C1
+0030V00003jkks7QAA,Best-Fit College,10275,California College of the Arts,My Options List,C1
+0030V00003jkks7QAA,Best-Fit College,11076,California Institute of the Arts,My Options List,C1
+0030V00003jkks7QAA,Application Submitted,10173,Chicago State University,My Options List,C1
+0030V00003jkks7QAA,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C1
+0030V00003jkks7QAA,Application in Progress,12826,City Colleges of Chicago Harold Washington College,My Options List,C1
+0030V00003jkks7QAA,Application Submitted,10501,Columbia College Chicago,My Options List,C1
+0030V00003jkks7QAA,Application in Progress,10000,Northeastern Illinois University,My Options List,C1
+0030V00003jkks7QAA,Best-Fit College,10352,Otis College of Art and Design,My Options List,C1
+0030V00003jkks7QAA,Best-Fit College,11026,San Francisco Art Institute,My Options List,C1
+0030V00003jkks7QAA,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C1
+0030V00003jkks7QAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003jkksbQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkksbQAA,College of Consideration,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkksbQAA,College of Consideration,10173,Chicago State University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkksbQAA,Application Submitted,10723,National Louis University,,C1
+0030V00003jkksbQAA,Application Submitted,10000,Northeastern Illinois University,,C1
+0030V00003jkksbQAA,Application Submitted,10948,East-West University,Prefill College Application Status Form,C1
+0030V00003jkksbQAA,Application Submitted,12793,Coyne College,Prefill College Application Status Form,C1
+0030V00003jkktPQAQ,Application Submitted,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkktPQAQ,Best-Fit College,11140,Santa Clara University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkktPQAQ,Application Submitted,10799,Northern Illinois University,Prefill College Application Status Form,C1
+0030V00003jkktPQAQ,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C1
+0030V00003jkktPQAQ,Application Submitted,10173,Chicago State University,Prefill College Application Status Form,C1
+0030V00003jkktPQAQ,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C1
+0030V00003jkktPQAQ,Application Submitted,10000,Northeastern Illinois University,Prefill College Application Status Form,C1
+0030V00003jkpv6QAA,Application in Progress,10774,DePaul University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkpv6QAA,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003jkpv6QAA,Application in Progress,10376,SUNY College of Technology at Delhi,My Options List,C1
+0030V00003jkpv6QAA,Application in Progress,10145,University of Massachusetts Amherst,My Options List,C1
+0030V00003jkpv6QAA,Application in Progress,13751,San Jacinto College,My Options List,C1
+0030V00003jkpv6QAA,Application in Progress,13183,Montana Tech College of Technology,My Options List,C1
+0030V00003jkpv6QAA,Application in Progress,11952,King's College (NY),My Options List,C1
+0030V00003jkpv6QAA,Best-Fit College,92246,International Brotherhood of Electrical Workers (IBEW),My Options List,C1
+0030V00003jkpv6QAA,Application in Progress,14196,Middle Georgia Technical College,My Options List,C1
+0030V00003jkpv6QAA,Best-Fit College,10593,SUNY College of Environmental Science and Forestry,My Options List,C1
+0030V00003jkpv6QAA,Best-Fit College,10472,SUNY College of Technology at Alfred,My Options List,C1
+0030V00003jkpv6QAA,Best-Fit College,41221,University of Texas Rio Grande Valley,My Options List,C1
+0030V00003jkpv6QAA,Application Submitted,12793,Coyne College,Prefill College Application Status Form,C1
+0030V00003jkpv6QAA,Application Submitted,11960,Lincoln College of Technology,Prefill College Application Status Form,C1
+0030V00003jkpv6QAA,Application Submitted,12815,Morton College,Prefill College Application Status Form,C1
+0030V00003jkpv6QAA,Application Submitted,12813,Kishwaukee College,Prefill College Application Status Form,C1
+0030V00003jkpwJQAQ,Application Submitted,10527,University of Illinois at Urbana-Champaign,My Options List,C1
+0030V00003jkpwJQAQ,Application in Progress,10863,Illinois State University,My Options List,C1
+0030V00003jkpwJQAQ,Application Submitted,10861,Eastern Illinois University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkpwJQAQ,Application in Progress,10956,Bradley University,My Options List,C1
+0030V00003jkpwJQAQ,Application in Progress,10173,Chicago State University,My Options List,C1
+0030V00003jkpwJQAQ,Application Submitted,11965,Loyola University Chicago,My Options List,C1
+0030V00003jkpwJQAQ,Application in Progress,10340,McKendree University,My Options List,C1
+0030V00003jkpwJQAQ,Application Submitted,10382,University of Illinois at Chicago,My Options List,C1
+0030V00003jkpwJQAQ,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C1
+0030V00003jkpwJQAQ,Application Submitted,11451,Lewis University,Prefill College Application Status Form,C1
+0030V00003jkpwJQAQ,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C1
+0030V00003jkpz3QAA,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkpz3QAA,Best-Fit College,10173,Chicago State University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq3tQAA,Application in Progress,11965,Loyola University Chicago,My Options List,C1
+0030V00003jkq3tQAA,Best-Fit College,13937,Chamberlain College of Nursing,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq3tQAA,Application Submitted,10774,DePaul University,My Options List,C1
+0030V00003jkq3tQAA,Application in Progress,10848,Illinois Institute of Technology,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,11423,Lake Forest College,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,10564,North Park University,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,11341,University of Chicago,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,10382,University of Illinois at Chicago,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,10320,Saint Xavier University,My Options List,C1
+0030V00003jkq3tQAA,Application Submitted,10173,Chicago State University,My Options List,C1
+0030V00003jkq3tQAA,Application in Progress,11217,Roosevelt University,My Options List,C1
+0030V00003jkq6TQAQ,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,11341,University of Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10861,Eastern Illinois University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10863,Illinois State University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10000,Northeastern Illinois University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10799,Northern Illinois University,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,12853,Southeastern Illinois College,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10752,University of Illinois at Springfield,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C1
+0030V00003jkq6TQAQ,Best-Fit College,10436,Western Illinois University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1ciHQAQ,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1ciHQAQ,Application in Progress,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003k1ciHQAQ,Application in Progress,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C1
+0030V00003k1ciHQAQ,Application in Progress,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003k1cjKQAQ,Application in Progress,10382,University of Illinois at Chicago,My Options List,C1
+0030V00003k1cjKQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjKQAQ,College of Consideration,12815,Morton College,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjKQAQ,Best-Fit College,10384,Northwestern University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjKQAQ,Application in Progress,10173,Chicago State University,My Options List,C1
+0030V00003k1cjKQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003k1cjKQAQ,Application in Progress,12830,College of DuPage,My Options List,C1
+0030V00003k1cjKQAQ,Application in Progress,10501,Columbia College Chicago,My Options List,C1
+0030V00003k1cjKQAQ,Application Submitted,10814,Dominican University,My Options List,C1
+0030V00003k1cjKQAQ,Application Submitted,11451,Lewis University,My Options List,C1
+0030V00003k1cjKQAQ,Application in Progress,12832,Lincoln Land Community College,My Options List,C1
+0030V00003k1cjKQAQ,Application Submitted,10799,Northern Illinois University,My Options List,C1
+0030V00003k1cjKQAQ,Application in Progress,12835,Rock Valley College,My Options List,C1
+0030V00003k1cjKQAQ,Application in Progress,10436,Western Illinois University,My Options List,C1
+0030V00003k1cjKQAQ,Application Submitted,11205,North Central College,Prefill College Application Status Form,C1
+0030V00003k1cjKQAQ,Application Submitted,10572,Millikin University,Prefill College Application Status Form,C1
+0030V00003k1cjKQAQ,Application in Progress,10987,Illinois College,Prefill College Application Status Form,C1
+0030V00003k1cjKQAQ,Application in Progress,12800,Lincoln College of Technology at Melrose Park,Prefill College Application Status Form,C1
+0030V00003k1cjeQAA,Application Submitted,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjeQAA,Application Submitted,10848,Illinois Institute of Technology,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjeQAA,Application in Progress,11965,Loyola University Chicago,Prefill Best&#45;Fit College Form,C1
+0030V00003k1cjeQAA,Application in Progress,58988,City Colleges of Chicago,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,12824,City Colleges of Chicago Malcolm X College,My Options List,C1
+0030V00003k1cjeQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,13944,Lincoln College (2-Year),My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,10723,National Louis University,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,12817,Oakton Community College,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,12850,Prairie State College,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,12079,Robert Morris University Illinois,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,80334,Tricoci University of Beauty Culture,My Options List,C1
+0030V00003k1cjeQAA,Best-Fit College,11012,VanderCook College of Music,My Options List,C1
+0030V00003k1clfQAA,Application in Progress,10019,Alabama A & M University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,Best-Fit College,11122,Duke University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,Application Submitted,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,College of Consideration,11135,Howard University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,Best-Fit College,10564,North Park University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,Application Submitted,10861,Eastern Illinois University,Prefill College Application Status Form,C1
+0030V00003k1clfQAA,Best-Fit College,10963,Truman State University,Prefill Best&#45;Fit College Form,C1
+0030V00003k1clfQAA,Application Submitted,11335,Northern Michigan University,Prefill College Application Status Form,C1
+0030V00003k1clfQAA,Application Submitted,10799,Northern Illinois University,Prefill College Application Status Form,C1
+0030V00003k1clfQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C1
+0030V00003k1clfQAA,Application Submitted,12894,Iowa Central Community College,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application Submitted,10547,Baylor University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application in Progress,11358,Michigan State University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application Submitted,10401,Iowa State University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application Submitted,10863,Illinois State University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application in Progress,10527,University of Illinois at Urbana-Champaign,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application in Progress,12021,Ohio State University-Main Campus,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application in Progress,10564,North Park University,Prefill College Application Status Form,C1
+0030V00003k1cmEQAQ,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C1
+0030V00003luCemQAE,Best-Fit College,10863,Illinois State University,Prefill Best&#45;Fit College Form,C1
+0030V00003luCemQAE,Application in Progress,10173,Chicago State University,Prefill Best&#45;Fit College Form,C1
+0030V00003luCemQAE,Best-Fit College,92259,Adler University,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,15415,Arrupe College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,58988,City Colleges of Chicago,My Options List,C1
+0030V00003luCemQAE,Application Submitted,12845,City Colleges of Chicago Kennedy-King College,My Options List,C1
+0030V00003luCemQAE,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12854,Harper College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12811,Illinois Valley Community College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12848,John Wood Community College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12853,Southeastern Illinois College,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12843,Southwestern Illinois College,My Options List,C1
+0030V00003luCemQAE,Application Submitted,12805,Springfield College in Illinois,My Options List,C1
+0030V00003luCemQAE,Best-Fit College,12819,Triton College,My Options List,C1
+0030V00003luCemQAE,Application Submitted,12825,City Colleges of Chicago Olive-Harvey College,Prefill College Application Status Form,C1
+0030V00003luCemQAE,Application Submitted,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C1
+0030V00003jhVFdQAM,Best-Fit College,10774,DePaul University,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,10320,Saint Xavier University,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,11965,Loyola University Chicago,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,11217,Roosevelt University,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,10848,Illinois Institute of Technology,Prefill Best&#45;Fit College Form,C2
+0030V00003jhVFdQAM,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C2
+0030V00003jhVFdQAM,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,10000,Northeastern Illinois University,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,10173,Chicago State University,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,12824,City Colleges of Chicago Malcolm X College,My Options List,C2
+0030V00003jhVFdQAM,Best-Fit College,11341,University of Chicago,My Options List,C2
+0030V00003jkjpHQAQ,Application in Progress,10738,Eastern Kentucky University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkjpHQAQ,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C2
+0030V00003jkjpHQAQ,Application in Progress,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003jkjpHQAQ,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C2
+0030V00003jkjpHQAQ,Application in Progress,10799,Northern Illinois University,Prefill College Application Status Form,C2
+0030V00003jkjpHQAQ,Application in Progress,10540,Kansas State University,Prefill College Application Status Form,C2
+0030V00003jkjpHQAQ,Application in Progress,10599,Academy of Art University,Prefill College Application Status Form,C2
+0030V00003jkkDiQAI,Application Submitted,10752,University of Illinois at Springfield,Prefill College Application Status Form,C2
+0030V00003jkkDiQAI,Application Submitted,10019,Alabama A & M University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkDiQAI,Best-Fit College,10058,Arizona State University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkDiQAI,Best-Fit College,11083,University of Iowa,,C2
+0030V00003jkkDiQAI,Application Submitted,10382,University of Illinois at Chicago,,C2
+0030V00003jkkDiQAI,Application in Progress,11131,Alabama State University,,C2
+0030V00003jkkDiQAI,Best-Fit College,12824,City Colleges of Chicago Malcolm X College,,C2
+0030V00003jkkDiQAI,Best-Fit College,10176,Albany State University,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,13259,American Academy of Dramatic Arts,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,13285,Crouse Hospital School of Nursing,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,10465,CUNY College of Staten Island (2-Year),My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,15225,CUNY Guttman Community College,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,13302,Ellis Hospital School of Nursing,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,10454,Georgia State University,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,14212,Memorial Hospital School of Nursing,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,10212,New York University,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,10312,Niagara University,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,14090,South Texas College,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,12121,Texas A & M University-Commerce,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,12110,St. John's University-New York,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,13294,St. Joseph's College of Nursing,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,12123,Texas A & M University-Kingsville,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,11143,University of Georgia,My Options List,C2
+0030V00003jkkDiQAI,Best-Fit College,15241,University of North Georgia,My Options List,C2
+0030V00003jkkDiQAI,Application Submitted,12830,College of DuPage,Prefill College Application Status Form,C2
+0030V00003jkkDiQAI,Best-Fit College,10774,DePaul University,Prefill College Application Status Form,C2
+0030V00003jkkDiQAI,Application Submitted,10863,Illinois State University,Prefill College Application Status Form,C2
+0030V00003jkkDiQAI,Application Submitted,12845,City Colleges of Chicago Kennedy-King College,Prefill College Application Status Form,C2
+0030V00003jkkc4QAA,Best-Fit College,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003jkkc4QAA,Application in Progress,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkkc4QAA,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003jkkc4QAA,Best-Fit College,10564,North Park University,My Options List,C2
+0030V00003jkkc4QAA,Best-Fit College,11285,Elmhurst College,My Options List,C2
+0030V00003jkkc4QAA,Accepted,10818,Greenville College,My Options List,C2
+0030V00003jkkc4QAA,Best-Fit College,11451,Lewis University,My Options List,C2
+0030V00003jkkc4QAA,Application Submitted,10723,National Louis University,My Options List,C2
+0030V00003jkkc4QAA,Best-Fit College,12079,Robert Morris University Illinois,My Options List,C2
+0030V00003jkkc4QAA,Best-Fit College,11217,Roosevelt University,My Options List,C2
+0030V00003jkkc4QAA,Application Submitted,10320,Saint Xavier University,My Options List,C2
+0030V00003jkkc4QAA,Application in Progress,10752,University of Illinois at Springfield,My Options List,C2
+0030V00003jkkc4QAA,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003jkkkSQAQ,Best-Fit College,11759,California State University-Los Angeles,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkkSQAQ,Application Submitted,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,10626,Cornell University,My Options List,C2
+0030V00003jkkkSQAQ,Accepted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,11115,Western Michigan University,My Options List,C2
+0030V00003jkkkSQAQ,Application Submitted,10992,University of San Francisco,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,12162,University of California-Los Angeles,My Options List,C2
+0030V00003jkkkSQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,,C2
+0030V00003jkkkSQAQ,Application Submitted,11396,Augustana College (IL),Prefill College Application Status Form,C2
+0030V00003jkkkSQAQ,Best-Fit College,11965,Loyola University Chicago,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,10631,Pratt Institute-Main,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,11217,Roosevelt University,My Options List,C2
+0030V00003jkkkSQAQ,Best-Fit College,12180,University of Michigan-Dearborn,My Options List,C2
+0030V00003jkkkSQAQ,Accepted,10501,Columbia College Chicago,Prefill College Application Status Form,C2
+0030V00003jkklLQAQ,Best-Fit College,12800,Lincoln College of Technology at Melrose Park,Prefill Best&#45;Fit College Form,C2
+0030V00003jkklLQAQ,Best-Fit College,12846,Elgin Community College,My Options List,C2
+0030V00003jkklLQAQ,Application in Progress,12791,City Colleges of Chicago Harry S Truman College,My Options List,C2
+0030V00003jkklLQAQ,Application Submitted,12845,City Colleges of Chicago Kennedy-King College,My Options List,C2
+0030V00003jkklLQAQ,Application Submitted,12815,Morton College,My Options List,C2
+0030V00003jkklLQAQ,Application Submitted,12833,Moraine Valley Community College,My Options List,C2
+0030V00003jkklLQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,,C2
+0030V00003jkklLQAQ,Best-Fit College,12811,Illinois Valley Community College,My Options List,C2
+0030V00003jkklLQAQ,Application in Progress,12825,City Colleges of Chicago Olive-Harvey College,My Options List,C2
+0030V00003jkklLQAQ,Best-Fit College,12830,College of DuPage,My Options List,C2
+0030V00003jkklLQAQ,Best-Fit College,12831,Joliet Junior College,My Options List,C2
+0030V00003jkklLQAQ,Best-Fit College,12819,Triton College,My Options List,C2
+0030V00003jkklLQAQ,Application Submitted,12814,College of Lake County,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Best-Fit College,15225,CUNY Guttman Community College,,C2
+0030V00003jkklzQAA,Best-Fit College,13311,Professional Business College,,C2
+0030V00003jkklzQAA,Best-Fit College,12742,Atlanta Metropolitan College,,C2
+0030V00003jkklzQAA,Best-Fit College,15415,Arrupe College,,C2
+0030V00003jkklzQAA,Best-Fit College,12590,Laney College,,C2
+0030V00003jkklzQAA,Best-Fit College,12512,Merritt College,,C2
+0030V00003jkklzQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application in Progress,58988,City Colleges of Chicago,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,10173,Chicago State University,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,10501,Columbia College Chicago,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003jkklzQAA,Application Submitted,11118,School of the Art Institute of Chicago,Prefill College Application Status Form,C2
+0030V00003jkkmYQAQ,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,10034,American Academy of Art,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,10863,Illinois State University,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,11118,School of the Art Institute of Chicago,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,10848,Illinois Institute of Technology,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,10384,Northwestern University,My Options List,C2
+0030V00003jkkmYQAQ,Best-Fit College,10173,Chicago State University,My Options List,C2
+0030V00003jkkmYQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003jkkmxQAA,Application in Progress,12880,Harrison College at Columbus,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkmxQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12826,City Colleges of Chicago Harold Washington College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12827,City Colleges of Chicago Wilbur Wright College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12824,City Colleges of Chicago Malcolm X College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12830,College of DuPage,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12845,City Colleges of Chicago Kennedy-King College,My Options List,C2
+0030V00003jkkmxQAA,Application Submitted,12815,Morton College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12791,City Colleges of Chicago Harry S Truman College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12848,John Wood Community College,My Options List,C2
+0030V00003jkkmxQAA,Application in Progress,12849,MacCormac College,My Options List,C2
+0030V00003jkkmxQAA,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003jkkmxQAA,Application Submitted,10948,East-West University,Prefill College Application Status Form,C2
+0030V00003jkkotQAA,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkkotQAA,Accepted,12826,City Colleges of Chicago Harold Washington College,My Options List,C2
+0030V00003jkkotQAA,Application Submitted,11965,Loyola University Chicago,My Options List,C2
+0030V00003jkkotQAA,Application in Progress,10173,Chicago State University,My Options List,C2
+0030V00003jkkotQAA,Application in Progress,12830,College of DuPage,My Options List,C2
+0030V00003jkkotQAA,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003jkkotQAA,Application in Progress,11285,Elmhurst College,My Options List,C2
+0030V00003jkkotQAA,Application in Progress,10000,Northeastern Illinois University,My Options List,C2
+0030V00003jkkotQAA,Application Submitted,11217,Roosevelt University,My Options List,C2
+0030V00003jkkotQAA,Application Submitted,11341,University of Chicago,My Options List,C2
+0030V00003jkkotQAA,Application in Progress,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C2
+0030V00003jkkotQAA,Application Submitted,15415,Arrupe College,Prefill College Application Status Form,C2
+0030V00003jkkpmQAA,Application in Progress,10384,Northwestern University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkpmQAA,Application in Progress,10774,DePaul University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkkpmQAA,Application Submitted,10863,Illinois State University,Prefill College Application Status Form,C2
+0030V00003jkkpmQAA,Application Submitted,10320,Saint Xavier University,,C2
+0030V00003jkkpmQAA,Application in Progress,10788,Murray State University,,C2
+0030V00003jkkpmQAA,Application Submitted,11325,University of Notre Dame,,C2
+0030V00003jkkpmQAA,Application in Progress,12175,University of Maryland Global Campus,,C2
+0030V00003jkkpmQAA,Application in Progress,10244,Southeast Missouri State University,,C2
+0030V00003jkkpmQAA,Application Submitted,10025,Central Michigan University,,C2
+0030V00003jkkpmQAA,Application Submitted,10564,North Park University,Prefill College Application Status Form,C2
+0030V00003jkkpmQAA,Application Submitted,10861,Eastern Illinois University,Prefill College Application Status Form,C2
+0030V00003jkkr9QAA,Application Submitted,13259,American Academy of Dramatic Arts,My Options List,C2
+0030V00003jkkr9QAA,Application Submitted,12845,City Colleges of Chicago Kennedy-King College,My Options List,C2
+0030V00003jkkr9QAA,Application Submitted,12824,City Colleges of Chicago Malcolm X College,My Options List,C2
+0030V00003jkkr9QAA,Application Submitted,12830,College of DuPage,My Options List,C2
+0030V00003jkkr9QAA,Best-Fit College,12856,Harrison College at Anderson,My Options List,C2
+0030V00003jkkr9QAA,Application in Progress,12810,Illinois Central College,My Options List,C2
+0030V00003jkkr9QAA,Best-Fit College,12840,Illinois Eastern Community Colleges Lincoln Trail College,My Options List,C2
+0030V00003jkkr9QAA,Best-Fit College,12879,Ivy Tech Community College of Indiana-Northwest,My Options List,C2
+0030V00003jkkr9QAA,Best-Fit College,12831,Joliet Junior College,My Options List,C2
+0030V00003jkkr9QAA,Best-Fit College,12853,Southeastern Illinois College,My Options List,C2
+0030V00003jkkr9QAA,Application Submitted,10501,Columbia College Chicago,,C2
+0030V00003jkkr9QAA,Application in Progress,10173,Chicago State University,,C2
+0030V00003jkkr9QAA,Application Submitted,10599,Academy of Art University,,C2
+0030V00003jkkr9QAA,Best-Fit College,13985,Abraham Baldwin Agricultural College,,C2
+0030V00003jkkr9QAA,Application Submitted,11304,DePauw University,,C2
+0030V00003jkkr9QAA,Accepted,10774,DePaul University,Prefill College Application Status Form,C2
+0030V00003jkkr9QAA,Application Submitted,11498,Harvey Mudd College,Prefill College Application Status Form,C2
+0030V00003jkkr9QAA,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C2
+0030V00003jkkr9QAA,Application Submitted,11341,University of Chicago,Prefill College Application Status Form,C2
+0030V00003jkktoQAA,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,10999,Florida Atlantic University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkktoQAA,Application in Progress,10000,Northeastern Illinois University,My Options List,C2
+0030V00003jkktoQAA,Application Submitted,10320,Saint Xavier University,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,10501,Columbia College Chicago,My Options List,C2
+0030V00003jkktoQAA,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,11965,Loyola University Chicago,My Options List,C2
+0030V00003jkktoQAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,10173,Chicago State University,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,15190,Northwestern Institute of Health and Technology,My Options List,C2
+0030V00003jkktoQAA,Application in Progress,11217,Roosevelt University,My Options List,C2
+0030V00003jkpq6QAA,Application in Progress,10774,DePaul University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkpq6QAA,Application in Progress,11805,DeVry University-Georgia,Prefill Best&#45;Fit College Form,C2
+0030V00003jkpq6QAA,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application in Progress,10382,University of Illinois at Chicago,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application in Progress,10000,Northeastern Illinois University,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application in Progress,10723,National Louis University,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application in Progress,12815,Morton College,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application Submitted,12810,Illinois Central College,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application Submitted,12830,College of DuPage,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application Submitted,12814,College of Lake County,Prefill College Application Status Form,C2
+0030V00003jkpq6QAA,Application Submitted,12846,Elgin Community College,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Accepted,10000,Northeastern Illinois University,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003jkq4XQAQ,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq4XQAQ,Application in Progress,13933,Governors State University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10063,Saint Augustine College,My Options List,C2
+0030V00003jkq4XQAQ,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10799,Northern Illinois University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10173,Chicago State University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10564,North Park University,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Application in Progress,10948,East-West University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10863,Illinois State University,My Options List,C2
+0030V00003jkq4XQAQ,Application in Progress,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003jkq4XQAQ,Accepted,11217,Roosevelt University,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Accepted,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Accepted,12791,City Colleges of Chicago Harry S Truman College,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Accepted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003jkq4XQAQ,Accepted,10723,National Louis University,Prefill College Application Status Form,C2
+0030V00003jkq5LQAQ,Application Submitted,10799,Northern Illinois University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Best-Fit College,11163,Quincy University (IL),Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application Submitted,10861,Eastern Illinois University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application in Progress,10161,Northwood University (MI),Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application in Progress,11335,Northern Michigan University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application in Progress,10774,DePaul University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application in Progress,11115,Western Michigan University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq5LQAQ,Application in Progress,12830,College of DuPage,Prefill College Application Status Form,C2
+0030V00003jkq5LQAQ,Application in Progress,10760,Langston University,Prefill College Application Status Form,C2
+0030V00003jkq6EQAQ,Application in Progress,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,10799,Northern Illinois University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Application Submitted,10173,Chicago State University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,10863,Illinois State University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Application in Progress,10564,North Park University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Best-Fit College,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C2
+0030V00003jkq6EQAQ,Application Submitted,10000,Northeastern Illinois University,Prefill College Application Status Form,C2
+0030V00003k1chOQAQ,Application in Progress,10173,Chicago State University,My Options List,C2
+0030V00003k1chOQAQ,Application in Progress,10564,North Park University,My Options List,C2
+0030V00003k1chOQAQ,Application in Progress,10774,DePaul University,My Options List,C2
+0030V00003k1chOQAQ,Application in Progress,10436,Western Illinois University,My Options List,C2
+0030V00003k1chOQAQ,Best-Fit College,10861,Eastern Illinois University,,C2
+0030V00003k1chOQAQ,Best-Fit College,11122,Duke University,,C2
+0030V00003k1chOQAQ,Best-Fit College,10540,Kansas State University,,C2
+0030V00003k1chOQAQ,Best-Fit College,11806,DeVry University-Illinois,My Options List,C2
+0030V00003k1chOQAQ,Best-Fit College,10000,Northeastern Illinois University,My Options List,C2
+0030V00003k1chOQAQ,Best-Fit College,12816,Northwestern College (Ill.),My Options List,C2
+0030V00003k1chOQAQ,Best-Fit College,10320,Saint Xavier University,My Options List,C2
+0030V00003k1chOQAQ,Best-Fit College,11341,University of Chicago,My Options List,C2
+0030V00003k1chOQAQ,Application in Progress,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003k1chOQAQ,Application Submitted,12845,City Colleges of Chicago Kennedy-King College,Prefill College Application Status Form,C2
+0030V00003k1chYQAQ,Best-Fit College,11335,Northern Michigan University,Prefill Best&#45;Fit College Form,C2
+0030V00003k1chYQAQ,Accepted,10954,Southern Illinois University Edwardsville,Prefill Best&#45;Fit College Form,C2
+0030V00003k1chYQAQ,Best-Fit College,11103,Coe College,Prefill Best&#45;Fit College Form,C2
+0030V00003k1chYQAQ,Application Submitted,11396,Augustana College (IL),Prefill College Application Status Form,C2
+0030V00003k1chYQAQ,Accepted,10987,Illinois College,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,10863,Illinois State University,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,11205,North Central College,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,10487,Illinois Wesleyan University,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,11423,Lake Forest College,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,11002,Lawrence University,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,11346,Ripon College,My Options List,C2
+0030V00003k1chYQAQ,Best-Fit College,10495,University of Evansville,My Options List,C2
+0030V00003k1chYQAQ,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003k1chYQAQ,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003k1cjAQAQ,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003k1cjAQAQ,Declined,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003k1cjAQAQ,Application Submitted,10320,Saint Xavier University,My Options List,C2
+0030V00003k1cjAQAQ,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003k1cjAQAQ,Application in Progress,10814,Dominican University,My Options List,C2
+0030V00003k1cjAQAQ,Application Submitted,10752,University of Illinois at Springfield,My Options List,C2
+0030V00003k1cjAQAQ,Application Submitted,10564,North Park University,My Options List,C2
+0030V00003k1cjAQAQ,Declined,12831,Joliet Junior College,My Options List,C2
+0030V00003k1cjAQAQ,Declined,12834,Parkland College,My Options List,C2
+0030V00003k1cjAQAQ,Declined,11341,University of Chicago,My Options List,C2
+0030V00003k1cjAQAQ,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C2
+0030V00003k1cjAQAQ,Application Submitted,10818,Greenville College,Prefill College Application Status Form,C2
+0030V00003k1cjtQAA,Best-Fit College,11217,Roosevelt University,Prefill Best&#45;Fit College Form,C2
+0030V00003k1cjtQAA,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C2
+0030V00003k1ckDQAQ,Accepted,11396,Augustana College (IL),My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,11341,University of Chicago,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10527,University of Illinois at Urbana-Champaign,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10173,Chicago State University,My Options List,C2
+0030V00003k1ckDQAQ,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10863,Illinois State University,My Options List,C2
+0030V00003k1ckDQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,,C2
+0030V00003k1ckDQAQ,Application in Progress,12191,University of Nevada-Reno,My Options List,C2
+0030V00003k1ckDQAQ,Accepted,10956,Bradley University,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,11004,Loyola Marymount University,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10378,Northern Arizona University,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10286,Trinity College,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10925,University of Colorado at Colorado Springs,My Options List,C2
+0030V00003k1ckDQAQ,Application in Progress,10436,Western Illinois University,My Options List,C2
+0030V00003k1ckDQAQ,Application Submitted,10384,Northwestern University,Prefill College Application Status Form,C2
+0030V00003k1ckDQAQ,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003k1ckDQAQ,Accepted,10501,Columbia College Chicago,Prefill College Application Status Form,C2
+0030V00003k1cluQAA,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003k1cluQAA,Application Submitted,11304,DePauw University,Prefill Best&#45;Fit College Form,C2
+0030V00003k1cluQAA,Best-Fit College,10000,Northeastern Illinois University,My Options List,C2
+0030V00003k1cluQAA,Best-Fit College,10745,Musicians Institute,My Options List,C2
+0030V00003k1cluQAA,Best-Fit College,10264,Cleveland Institute of Music,My Options List,C2
+0030V00003k1cluQAA,Accepted,10501,Columbia College Chicago,My Options List,C2
+0030V00003k1cluQAA,Application Submitted,10774,DePaul University,My Options List,C2
+0030V00003k1cluQAA,Best-Fit College,10237,Notre Dame de Namur University,My Options List,C2
+0030V00003k1cluQAA,Application Submitted,12079,Robert Morris University Illinois,My Options List,C2
+0030V00003k1cluQAA,Accepted,10320,Saint Xavier University,My Options List,C2
+0030V00003k1cluQAA,Best-Fit College,11115,Western Michigan University,My Options List,C2
+0030V00003k1cluQAA,Application Submitted,11503,Knox College,Prefill College Application Status Form,C2
+0030V00003k1cluQAA,Application Submitted,10384,Northwestern University,Prefill College Application Status Form,C2
+0030V00003k1cluQAA,Application Submitted,10173,Chicago State University,Prefill College Application Status Form,C2
+0030V00003nSIYDQA4,Application in Progress,11965,Loyola University Chicago,My Options List,C2
+0030V00003nSIYDQA4,Application in Progress,11341,University of Chicago,Prefill Best&#45;Fit College Form,C2
+0030V00003nSIYDQA4,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C2
+0030V00003nSIYDQA4,Application Submitted,12826,City Colleges of Chicago Harold Washington College,My Options List,C2
+0030V00003nSIYDQA4,Application Submitted,12824,City Colleges of Chicago Malcolm X College,My Options List,C2
+0030V00003nSIYDQA4,Application Submitted,10382,University of Illinois at Chicago,My Options List,C2
+0030V00003nSIYDQA4,Application in Progress,12079,Robert Morris University Illinois,My Options List,C2
+0030V00003nSIYDQA4,Application in Progress,10000,Northeastern Illinois University,My Options List,C2
+0030V00003nSIYDQA4,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C2
+0030V00003nSIYDQA4,Application in Progress,10723,National Louis University,My Options List,C2
+0030V00003nSIYDQA4,Application in Progress,10063,Saint Augustine College,My Options List,C2
+0030V00003nSIYDQA4,Application Submitted,10564,North Park University,Prefill College Application Status Form,C2
+0030V00003nSIYDQA4,Application Submitted,10987,Illinois College,Prefill College Application Status Form,C2
+0030V00003jhVDmQAM,Wait Listed,12792,City Colleges of Chicago Richard J. Daley College,,C3
+0030V00003jhVEQQA2,Accepted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C3
+0030V00003jhVEQQA2,Best-Fit College,15253,Westside Tech,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVEQQA2,Best-Fit College,13965,SAE Institute Chicago,My Options List,C3
+0030V00003jhVEQQA2,Application Submitted,10173,Chicago State University,My Options List,C3
+0030V00003jhVEQQA2,Accepted,12824,City Colleges of Chicago Malcolm X College,My Options List,C3
+0030V00003jhVEQQA2,Best-Fit College,10501,Columbia College Chicago,My Options List,C3
+0030V00003jhVEQQA2,Application Submitted,10774,DePaul University,My Options List,C3
+0030V00003jhVEQQA2,Application Submitted,10814,Dominican University,My Options List,C3
+0030V00003jhVEQQA2,Best-Fit College,10000,Northeastern Illinois University,My Options List,C3
+0030V00003jhVEQQA2,Best-Fit College,10527,University of Illinois at Urbana-Champaign,My Options List,C3
+0030V00003jhVEQQA2,Application in Progress,10051,Wilberforce University,Prefill College Application Status Form,C3
+0030V00003jhVEQQA2,Application Submitted,11869,Indiana University-Purdue University-Indianapolis,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10277,University of Mississippi Main Campus,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Declined,12021,Ohio State University-Main Campus,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Best-Fit College,11122,Duke University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Application Submitted,10656,Syracuse University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Best-Fit College,10049,Virginia Polytechnic Institute and State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Application Submitted,10751,University of Florida,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVF4QAM,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10590,University of Kentucky,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,11262,Clark Atlanta University,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10315,Louisiana State University and A & M College,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10047,Morehouse College,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10312,Niagara University,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10148,Mississippi State University,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,12040,Pennsylvania State University-Penn State Abington,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,12065,Purdue University-Main Campus,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,11163,Quincy University (IL),Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10704,University of Kansas,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10382,University of Illinois at Chicago,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,10684,University of Oregon,Prefill College Application Status Form,C3
+0030V00003jhVF4QAM,Application Submitted,11325,University of Notre Dame,Prefill College Application Status Form,C3
+0030V00003jhVFxQAM,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVFxQAM,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVFxQAM,Best-Fit College,10607,Robert Morris University (PA),Prefill Best&#45;Fit College Form,C3
+0030V00003jhVFxQAM,Application in Progress,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C3
+0030V00003jhVFxQAM,Application in Progress,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C3
+0030V00003jhVGWQA2,Best-Fit College,10382,University of Illinois at Chicago,Prefill College Application Status Form,C3
+0030V00003jhVGWQA2,Best-Fit College,10774,DePaul University,Prefill College Application Status Form,C3
+0030V00003jhVGWQA2,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,Prefill College Application Status Form,C3
+0030V00003jhVGWQA2,Best-Fit College,11965,Loyola University Chicago,Prefill College Application Status Form,C3
+0030V00003jhVHoQAM,Accepted,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVHoQAM,Best-Fit College,11341,University of Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVHoQAM,Application Submitted,12826,City Colleges of Chicago Harold Washington College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVHoQAM,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C3
+0030V00003jhVHoQAM,Best-Fit College,10382,University of Illinois at Chicago,Prefill College Application Status Form,C3
+0030V00003jhVHoQAM,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C3
+0030V00003jhVHoQAM,Best-Fit College,10000,Northeastern Illinois University,Prefill College Application Status Form,C3
+0030V00003jhVHoQAM,Application Submitted,10501,Columbia College Chicago,Prefill College Application Status Form,C3
+0030V00003jhVISQA2,Application in Progress,10471,Southern Illinois University Carbondale,,C3
+0030V00003jhVISQA2,Accepted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C3
+0030V00003jhVISQA2,Accepted,10501,Columbia College Chicago,Prefill College Application Status Form,C3
+0030V00003jhVISQA2,Application Submitted,10384,Northwestern University,Prefill College Application Status Form,C3
+0030V00003jhVISQA2,Application in Progress,11217,Roosevelt University,Prefill College Application Status Form,C3
+0030V00003jhVK4QAM,Accepted,12845,City Colleges of Chicago Kennedy-King College,,C3
+0030V00003jhVK4QAM,Application Submitted,10723,National Louis University,Prefill College Application Status Form,C3
+0030V00003jhVK4QAM,Application Submitted,10384,Northwestern University,Prefill College Application Status Form,C3
+0030V00003jhVL7QAM,Application Submitted,12824,City Colleges of Chicago Malcolm X College,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,10774,DePaul University,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,12849,MacCormac College,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,10000,Northeastern Illinois University,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,11217,Roosevelt University,My Options List,C3
+0030V00003jhVL7QAM,Best-Fit College,10173,Chicago State University,,C3
+0030V00003jhVMPQA2,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Best-Fit College,10173,Chicago State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Best-Fit College,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Best-Fit College,12791,City Colleges of Chicago Harry S Truman College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Best-Fit College,10774,DePaul University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVMPQA2,Best-Fit College,11217,Roosevelt University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVN3QAM,Accepted,12824,City Colleges of Chicago Malcolm X College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVN3QAM,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,,C3
+0030V00003jhVN3QAM,Application in Progress,11451,Lewis University,,C3
+0030V00003jhVN3QAM,Application Submitted,11965,Loyola University Chicago,,C3
+0030V00003jhVNNQA2,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,12079,Robert Morris University Illinois,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,10173,Chicago State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,10384,Northwestern University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,10000,Northeastern Illinois University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Best-Fit College,11115,Western Michigan University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVNNQA2,Application in Progress,12845,City Colleges of Chicago Kennedy-King College,Prefill College Application Status Form,C3
+0030V00003jhVNNQA2,Best-Fit College,11341,University of Chicago,Prefill College Application Status Form,C3
+0030V00003jhVNNQA2,Accepted,10888,Carthage College,Prefill College Application Status Form,C3
+0030V00003jhVNSQA2,Application in Progress,10382,University of Illinois at Chicago,My Options List,C3
+0030V00003jhVNSQA2,Application Submitted,10848,Illinois Institute of Technology,My Options List,C3
+0030V00003jhVNSQA2,Application in Progress,10774,DePaul University,My Options List,C3
+0030V00003jhVNSQA2,Application in Progress,10384,Northwestern University,My Options List,C3
+0030V00003jhVNSQA2,Application Submitted,11217,Roosevelt University,My Options List,C3
+0030V00003jhVNSQA2,Application Submitted,10000,Northeastern Illinois University,My Options List,C3
+0030V00003jhVNSQA2,Application in Progress,11341,University of Chicago,My Options List,C3
+0030V00003jhVNSQA2,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C3
+0030V00003jhVOVQA2,Accepted,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVOVQA2,Application in Progress,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVOVQA2,Application Submitted,11118,School of the Art Institute of Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVOVQA2,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVOVQA2,Best-Fit College,19608,Assabet Valley Regional Technical School,My Options List,C3
+0030V00003jhVOVQA2,Best-Fit College,19611,Boston Graduate School of Psychoanalysis Inc,My Options List,C3
+0030V00003jhVOVQA2,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C3
+0030V00003jhVOVQA2,Best-Fit College,19600,Tri County Regional Vocational Technical High School,My Options List,C3
+0030V00003jhVOVQA2,Application Submitted,12824,City Colleges of Chicago Malcolm X College,Prefill College Application Status Form,C3
+0030V00003jhVOVQA2,Accepted,11965,Loyola University Chicago,Prefill College Application Status Form,C3
+0030V00003jhVOVQA2,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C3
+0030V00003jhVP4QAM,Application Submitted,10501,Columbia College Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Best-Fit College,11936,Judson University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Best-Fit College,11185,Aurora University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Application Submitted,10320,Saint Xavier University,Prefill College Application Status Form,C3
+0030V00003jhVP4QAM,Application Submitted,10799,Northern Illinois University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Best-Fit College,10173,Chicago State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Best-Fit College,10564,North Park University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVP4QAM,Application in Progress,10382,University of Illinois at Chicago,Prefill College Application Status Form,C3
+0030V00003jhVP4QAM,Application Submitted,10774,DePaul University,Prefill College Application Status Form,C3
+0030V00003jhVQlQAM,Application Submitted,12824,City Colleges of Chicago Malcolm X College,My Options List,C3
+0030V00003jhVQlQAM,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,19608,Assabet Valley Regional Technical School,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,19611,Boston Graduate School of Psychoanalysis Inc,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,10173,Chicago State University,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,12791,City Colleges of Chicago Harry S Truman College,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,11965,Loyola University Chicago,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,10000,Northeastern Illinois University,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,15190,Northwestern Institute of Health and Technology,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,10320,Saint Xavier University,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,19600,Tri County Regional Vocational Technical High School,My Options List,C3
+0030V00003jhVQlQAM,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C3
+0030V00003jhVRZQA2,Best-Fit College,10863,Illinois State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Best-Fit College,11435,Harvard University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Best-Fit College,10135,Dominican University of California,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Declined,19608,Assabet Valley Regional Technical School,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Declined,19611,Boston Graduate School of Psychoanalysis Inc,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application in Progress,10173,Chicago State University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application Submitted,10501,Columbia College Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application in Progress,10774,DePaul University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application Submitted,10948,East-West University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application in Progress,10564,North Park University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Application Submitted,10000,Northeastern Illinois University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Wait Listed,11217,Roosevelt University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Declined,10320,Saint Xavier University,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVRZQA2,Declined,19600,Tri County Regional Vocational Technical High School,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVS8QAM,Application in Progress,10814,Dominican University,,C3
+0030V00003jhVS8QAM,Accepted,12792,City Colleges of Chicago Richard J. Daley College,Prefill College Application Status Form,C3
+0030V00003jhVS8QAM,Declined,10320,Saint Xavier University,Prefill College Application Status Form,C3
+0030V00003jhVUTQA2,Application Submitted,10320,Saint Xavier University,My Options List,C3
+0030V00003jhVUTQA2,Application in Progress,12824,City Colleges of Chicago Malcolm X College,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,10774,DePaul University,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,12816,Northwestern College (Ill.),Prefill Best&#45;Fit College Form,C3
+0030V00003jhVUTQA2,Best-Fit College,11965,Loyola University Chicago,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,10527,University of Illinois at Urbana-Champaign,Prefill Best&#45;Fit College Form,C3
+0030V00003jhVUTQA2,Application Submitted,12791,City Colleges of Chicago Harry S Truman College,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,10987,Illinois College,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,15190,Northwestern Institute of Health and Technology,My Options List,C3
+0030V00003jhVUTQA2,Best-Fit College,14169,Trinity College of Nursing & Health Sciences,My Options List,C3
+0030V00003jkkbQQAQ,Best-Fit College,10000,Northeastern Illinois University,Prefill Best&#45;Fit College Form,C3
+0030V00003jkkbQQAQ,Best-Fit College,10382,University of Illinois at Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003jkkbQQAQ,Best-Fit College,12792,City Colleges of Chicago Richard J. Daley College,Prefill Best&#45;Fit College Form,C3
+0030V00003jkkbQQAQ,Best-Fit College,11115,Western Michigan University,Prefill Best&#45;Fit College Form,C3
+0030V00003jkkbQQAQ,Best-Fit College,10196,CUNY John Jay College Criminal Justice,Prefill Best&#45;Fit College Form,C3
+0030V00003jkkbQQAQ,Best-Fit College,12827,City Colleges of Chicago Wilbur Wright College,,C3
+0030V00003jkkbQQAQ,Best-Fit College,12826,City Colleges of Chicago Harold Washington College,,C3
+0030V00003jkkbQQAQ,Best-Fit College,11341,University of Chicago,,C3
+0030V00003k1clVQAQ,Application Submitted,10501,Columbia College Chicago,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,11135,Howard University,Prefill Best&#45;Fit College Form,C3
+0030V00003k1clVQAQ,Application Submitted,10774,DePaul University,My Options List,C3
+0030V00003k1clVQAQ,Application Submitted,11118,School of the Art Institute of Chicago,Prefill Best&#45;Fit College Form,C3
+0030V00003k1clVQAQ,Best-Fit College,10382,University of Illinois at Chicago,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,19608,Assabet Valley Regional Technical School,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,19611,Boston Graduate School of Psychoanalysis Inc,My Options List,C3
+0030V00003k1clVQAQ,Application Submitted,12792,City Colleges of Chicago Richard J. Daley College,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,10000,Northeastern Illinois University,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,19600,Tri County Regional Vocational Technical High School,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,10752,University of Illinois at Springfield,My Options List,C3
+0030V00003k1clVQAQ,Best-Fit College,10527,University of Illinois at Urbana-Champaign,My Options List,C3
