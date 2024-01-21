@@ -17,9 +17,10 @@ This is a temporary script file.
 
 import pandas as pd
 
-#Read Individual CSV Files 
-Student_List = pd.read_csv(r"C:\Users\Sam Koenig\Desktop\MyOptions Analysis\Student List.csv",header=0,encoding = 'unicode_escape')
-Colleges = pd.read_csv(r"C:\Users\Sam Koenig\Desktop\MyOptions Analysis\Master College List.csv",header=0,encoding = 'unicode_escape')
+#Read Individual CSV Files. 
+#Insert Directory Information Here
+Student_List = pd.read_csv(r"*",header=0,encoding = 'unicode_escape')
+Colleges = pd.read_csv(r"*",header=0,encoding = 'unicode_escape')
 
 #Join College Profiles
 Final_Student_List = pd.merge(Student_List, Colleges, left_on='College/University: OneGoal ID', right_on='OneGoal ID',how='left')
